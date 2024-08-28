@@ -89,6 +89,17 @@ video{
   font-weight: 500;
   width: 40%;
  }
+
+ #PG2 {
+  height: 100vh;
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+ }
  
  
 /* Scroll to Top Button */
