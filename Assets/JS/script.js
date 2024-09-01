@@ -1,3 +1,8 @@
+
+const scroll = new LocomotiveScroll({
+    el: document.querySelector('#main'),
+    smooth: true
+});
 // Scroller code 
 document.addEventListener('DOMContentLoaded', function() {
     const scrollToTopBtn = document.getElementById('scrollToTopBtn');
